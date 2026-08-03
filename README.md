@@ -1,4 +1,4 @@
-# 📊 Data Science Learning Journey (Pertemuan 1–7)
+# 📊 Data Science Learning Journey (Pertemuan 1–13)
 
 ## 👨‍🎓 Profil Mahasiswa
 
@@ -19,9 +19,11 @@ Tujuan karier saya adalah menjadi seorang **Data Engineer** yang mampu membangun
 
 ## 📚 Deskripsi Repository
 
-Repository ini berisi kumpulan tugas, praktikum, dan notebook pembelajaran Data Science dari Pertemuan 1 sampai Pertemuan 7. Setiap pertemuan membahas konsep dan praktik yang berbeda, mulai dari pengenalan Data Science, manipulasi data menggunakan Python, visualisasi data, hingga penerapan Machine Learning menggunakan scikit-learn.
+Repository ini berisi kumpulan tugas, praktikum, dan notebook pembelajaran Data Science dari Pertemuan 1 sampai Pertemuan 13. Materi dimulai dari pengenalan Data Science, pengolahan data menggunakan Python, visualisasi data, Machine Learning, hingga Deep Learning menggunakan TensorFlow/Keras.
 
-Melalui repository ini, saya mendokumentasikan proses belajar secara bertahap agar dapat digunakan sebagai bahan evaluasi, referensi, dan portofolio pembelajaran. Seluruh notebook disusun untuk menunjukkan perkembangan pemahaman terhadap konsep Data Science sekaligus kemampuan implementasi menggunakan berbagai library Python yang umum digunakan dalam industri.
+Melalui repository ini, saya mendokumentasikan seluruh proses pembelajaran sebagai bahan evaluasi, referensi, sekaligus portofolio yang menunjukkan perkembangan kemampuan analisis data dan implementasi machine learning menggunakan Python. Setiap pertemuan membahas konsep dan praktik yang berbeda, mulai dari pengenalan Data Science, manipulasi data menggunakan Python, visualisasi data, hingga penerapan Machine Learning menggunakan scikit-learn.
+
+Seluruh notebook disusun untuk menunjukkan perkembangan pemahaman terhadap konsep Data Science sekaligus kemampuan implementasi menggunakan berbagai library Python yang umum digunakan dalam industri.
 
 ---
 
@@ -36,7 +38,12 @@ Melalui repository ini, saya mendokumentasikan proses belajar secara bertahap ag
 | 5         | Visualisasi Data | [Notebook Pertemuan 5](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan5_M_Rijal_Anshory_DJ_240401010281.ipynb) |
 | 6         | Persiapan Data  | [Notebook Pertemuan 6](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan6_M_Rijal_Anshory_DJ_240401010281.ipynb) |
 | 7         | Pengantar Machine Learning: Regresi Linier                | [Notebook Pertemuan 7](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan7_M_Rijal_Anshory_DJ_240401010281.ipynb) |
-
+| 8         | UTS                |  |
+| 9         | Klasifikasi: Logistic Regression                | [Notebook Pertemuan 9](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan9_M_Rijal_Anshory_DJ_240401010281.ipynb) |
+| 10         | Decision Tree & Evaluasi Model                | [Notebook Pertemuan 10](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan10_M_Rijal_Anshory_DJ_240401010281.ipynb) |
+| 11         | Clustering (K-Means)                | [Notebook Pertemuan 11](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan11_M_Rijal_Anshory_DJ_240401010281.ipynb) |
+| 12         | PAssociation Rule Mining (Apriori) & Recommendation System                | [Notebook Pertemuan 12](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan12_M_Rijal_Anshory_DJ_240401010281.ipynb) |
+| 13         | Deep Learning menggunakan TensorFlow/Keras                | [Notebook Pertemuan 13](https://github.com/rijal0708/data-science-2026/blob/main/Pertemuan13_M_Rijal_Anshory_DJ_240401010281.ipynb) |
 
 ---
 
@@ -61,12 +68,15 @@ Selama proses pembelajaran, saya menggunakan beberapa tools dan library berikut:
 ### Library Machine Learning
 
 * scikit-learn
+* TensorFlow
+* keras
 
 ### Environment
 
 * Jupyter Notebook
 * Google Colab
 * Git & GitHub
+
 
 ---
 
@@ -103,14 +113,15 @@ Setiap notebook dapat dibuka langsung melalui Google Colab menggunakan link yang
 
 ---
 
-# 🎯 Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–7)
+# 🎯 Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–13)
 
-Selama tujuh pertemuan pertama, saya memperoleh pemahaman dasar yang kuat mengenai Data Science, mulai dari penggunaan Python untuk analisis data hingga penerapan model Machine Learning sederhana. Saya belajar bagaimana mengumpulkan, membersihkan, mengolah, memvisualisasikan, dan menganalisis data menggunakan berbagai library Python yang umum digunakan di dunia industri.
+Selama tiga belas pertemuan, saya mempelajari berbagai konsep penting dalam Data Science mulai dari dasar pemrograman Python, manipulasi data menggunakan NumPy dan Pandas, pembersihan data, analisis statistik, visualisasi data, hingga implementasi berbagai algoritma Machine Learning.
 
-Selain itu, saya juga memahami pentingnya proses evaluasi model dalam Machine Learning, termasuk penggunaan metrik seperti MAE, RMSE, dan R² untuk mengukur performa model regresi. Melalui praktikum yang dilakukan, saya menjadi lebih memahami alur kerja seorang data professional dalam mengubah data mentah menjadi informasi yang bernilai.
+Materi kemudian berkembang ke algoritma klasifikasi seperti Logistic Regression dan Decision Tree, teknik Clustering menggunakan K-Means, Association Rule Mining menggunakan Apriori, Recommendation System, serta pengenalan Deep Learning menggunakan TensorFlow dan Keras.
 
-Perjalanan belajar ini menjadi fondasi yang penting untuk mencapai tujuan saya sebagai **Data Engineer**, karena kemampuan memahami struktur data, pengolahan data, dan analisis data merupakan keterampilan dasar yang sangat dibutuhkan dalam bidang tersebut. Ke depannya, saya akan terus memperdalam pengetahuan mengenai data engineering, data pipelines, database, big data, dan cloud computing untuk mendukung pengembangan karier profesional di masa depan.
+Melalui setiap praktikum, saya memahami alur kerja Data Science secara menyeluruh, mulai dari pengumpulan data, preprocessing, eksplorasi data, pemodelan, evaluasi model, hingga interpretasi hasil. Selain itu, saya juga mempelajari berbagai metrik evaluasi seperti Accuracy, Precision, Recall, F1-Score, Confusion Matrix, MAE, RMSE, dan R² sesuai dengan jenis permasalahan yang diselesaikan.
 
+Repository ini menjadi dokumentasi perkembangan kemampuan saya dalam bidang Data Science sekaligus portofolio pembelajaran menuju karier sebagai Data Engineer. Ke depan, saya akan memperdalam materi mengenai Big Data, Data Engineering, Data Pipeline, Cloud Computing, dan MLOps agar mampu membangun sistem data yang skalabel dan siap digunakan di dunia industri.
 ---
 
 ⭐ Repository ini dibuat sebagai dokumentasi proses pembelajaran Data Science dan pengembangan kompetensi menuju karier sebagai Data Engineer.
